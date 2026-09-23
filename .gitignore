@@ -1,2 +1,4 @@
 .env
 myeng/
+.DS_Store git add .gitignore
+.DS_Store
